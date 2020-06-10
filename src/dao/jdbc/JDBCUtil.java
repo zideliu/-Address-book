@@ -4,9 +4,9 @@ import java.sql.*;
 
 public class JDBCUtil {
 
-    private static String url = "jdbc:mysql://rm-uf61e4i5z34jgd82s4o.mysql.rds.aliyuncs.com:3306/zzk" ;
-    private static String username = "root" ;
-    private static String password = "xinyu1973QQ" ;
+    private static String url = "" ;
+    private static String username = "" ;
+    private static String password = "" ;
 
     static {
         try {
